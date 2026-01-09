@@ -7,7 +7,7 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" /> |
 | **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" /> |
-| **Intelligence** | `GenAI` `ML/AI` `LLMs` `Neural Networks` |
-| **Logic** | `Data Structures` `Algorithms` `Competitive Programming` |
+| **Intelligence** | `GenAI` `ML/AI` |
+| **Logic** | `Data Structures` `Algorithms`  |
 
 ---
