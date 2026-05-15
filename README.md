@@ -13,4 +13,4 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | **Logic** | ![Data Structures](https://img.shields.io/badge/Data_Structures-1D4ED8?style=for-the-badge&logo=thealgorithms&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-15803D?style=for-the-badge&logo=thealgorithms&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Savni_agrawal?theme=dark&ext=activity)](https://leetcode.com/Savni_agrawal)
+
