@@ -14,3 +14,7 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=savniagrawal1701&theme=tokyo-night&hide_border=true&area=true)
+
+![3D Contrib](https://raw.githubusercontent.com/savniagrawal1701/savniagrawal1701/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=savniagrawal1701&theme=rogue&area=true&hide_border=true)
