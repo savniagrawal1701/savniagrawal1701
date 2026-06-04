@@ -16,5 +16,3 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=savniagrawal1701&theme=dracula&area=true&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=savniagrawal1701)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=savniagrawal1701)](https://git.io/streak-stats)
