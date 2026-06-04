@@ -12,5 +12,6 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | **Intelligence** | ![GenAI](https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white) ![ML/AI](https://img.shields.io/badge/ML%2FAI-0EA5E9?style=for-the-badge&logo=pytorch&logoColor=white) |
 | **Logic** | ![Data Structures](https://img.shields.io/badge/Data_Structures-1D4ED8?style=for-the-badge&logo=thealgorithms&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-15803D?style=for-the-badge&logo=thealgorithms&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
+ [![GitHub Streak](https://streak-stats.demolab.com?user=savniagrawal1701)](https://git.io/streak-stats)
  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=savniagrawal1701&theme=dracula&area=true&hide_border=true)
