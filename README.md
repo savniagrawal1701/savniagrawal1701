@@ -14,17 +14,17 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
 
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=savniagrawal1701&show_icons=true&theme=radical" />
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=savniagrawal1701&theme=tokyonight" />
+</p>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savniagrawal1701&theme=radical" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=savniagrawal1701&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=savniagrawal1701&theme=radical" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/savniagrawal1701">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=savniagrawal1701&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true" />
+  </a>
+</p>
