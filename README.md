@@ -12,10 +12,19 @@ I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering
 | **Intelligence** | ![GenAI](https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white) ![ML/AI](https://img.shields.io/badge/ML%2FAI-0EA5E9?style=for-the-badge&logo=pytorch&logoColor=white) |
 | **Logic** | ![Data Structures](https://img.shields.io/badge/Data_Structures-1D4ED8?style=for-the-badge&logo=thealgorithms&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-15803D?style=for-the-badge&logo=thealgorithms&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=savniagrawal1701&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savniagrawal1701&theme=radical)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=savniagrawal1701&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=savniagrawal1701&show_icons=true&theme=radical" />
+</a>
 
+<!-- GitHub Streak -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savniagrawal1701&theme=radical" />
+</a>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=savniagrawal1701&theme=radical" />
+</a>
