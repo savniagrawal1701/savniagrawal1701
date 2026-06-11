@@ -1,17 +1,78 @@
 I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering (CSE) student at VIT Bhopal University. I possess a strong foundation in core programming and front-end development, including Python, C++, C, HTML, CSS, and JavaScript. Currently, I am focused on advanced skill acquisition, prioritizing the mastery of Data Structures and Algorithms (DSA) and specializing in the emerging field of Artificial Intelligence and Machine Learning (AIML) to drive innovation in technical projects.
 
 
-## 🚀 TECHSTACK
- 
-| Category | Skills |
-|----------|--------|
-| **Languages** | ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **ML / AI** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white) |
-| **Intelligence** | ![GenAI](https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white) ![ML/AI](https://img.shields.io/badge/ML%2FAI-0EA5E9?style=for-the-badge&logo=pytorch&logoColor=white) |
-| **Logic** | ![Data Structures](https://img.shields.io/badge/Data_Structures-1D4ED8?style=for-the-badge&logo=thealgorithms&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-15803D?style=for-the-badge&logo=thealgorithms&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=2C3E50) |
+### 🚀 Tech Stack
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Category</th>
+      <th width="80%">Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Web Dev</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>ML / AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-blue?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supervised_Learning-orange?style=flat" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Intelligence</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/GenAI-8E44AD?style=flat" />
+        <img src="https://img.shields.io/badge/ML--AI-2980B9?style=flat" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Logic</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Data_Structures-27AE60?style=flat" />
+        <img src="https://img.shields.io/badge/Algorithms-27AE60?style=flat" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <p align="center">
