@@ -1,4 +1,4 @@
-I am Savni Agrawal, a dedicated 2nd-year B.Tech Computer Science and Engineering (CSE) student at VIT Bhopal University. I possess a strong foundation in core programming and front-end development, including Python, C++, C, HTML, CSS, and JavaScript. Currently, I am focused on advanced skill acquisition, prioritizing the mastery of Data Structures and Algorithms (DSA) and specializing in the emerging field of Artificial Intelligence and Machine Learning (AIML) to drive innovation in technical projects.
+I am Savni Agrawal, a dedicated B.Tech Computer Science and Engineering (CSE) student at VIT Bhopal University. I possess a strong foundation in core programming and front-end development, including Python, C++, C, HTML, CSS, and JavaScript. Currently, I am focused on advanced skill acquisition, prioritizing the mastery of Data Structures and Algorithms (DSA) and specializing in the emerging field of Artificial Intelligence and Machine Learning (AIML) to drive innovation in technical projects.
 
 
 ### 🚀 Tech Stack
